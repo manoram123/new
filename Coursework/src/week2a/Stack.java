@@ -1,4 +1,4 @@
-package week2;
+package week2a;
 
 public class Stack {
     int size = 10;

@@ -1,10 +1,12 @@
 package week1a;
 
+import week4.LinkList;
+
 import java.util.ArrayList;
 
 public class ConvertBinary {
 
-    LinkList l = new LinkList();
+    week1a.LinkList l = new week1a.LinkList();
     ArrayList al = new ArrayList();
 
     public void separate(int num){

@@ -1,4 +1,4 @@
-package week2;
+package week2a;
 
 public class BalancePair {
     Stack s = new Stack();
@@ -40,6 +40,6 @@ public class BalancePair {
         BalancePair b = new BalancePair();
         String ch = null;
 
-        b.bal("{}}}}");
+        b.bal("{{}{}}{)");
     }
 }
